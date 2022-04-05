@@ -1,0 +1,20 @@
+{
+  "name": "mqtt_node_tls",
+  "version": "1.0.0",
+  "description": "create mqtt secure broker using node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mqtt_node_tls"
+  },
+  "author": "mithila",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "mqtt": "^4.3.7",
+    "mqtt-server": "^0.1.0"
+  }
+}
